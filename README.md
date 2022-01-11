@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 
 -->
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Typescript, GraphQL
 - 💬 Ask me about JS, Node.Js, AWS, MongoDB
 - 📫 How to reach me: kbhowmick067@gmail.com
 - 😄 Pronouns: He/Him
